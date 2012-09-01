@@ -1,14 +1,13 @@
 {
-  "name": "application-name",
-  "version": "0.0.1",
-  "private": true,
+  "name": "roa-konsult",
+  "version": "0.1.0",
+  "private": false,
   "dependencies": {
     "express": "2.5.11",
-    "css": ">= 0.0.1",
     "jade": ">= 0.0.1"
   },
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "foreman start"
   },
   "engines": {
     "node": "0.6.x",
