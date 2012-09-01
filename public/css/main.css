@@ -1,0 +1,18 @@
+body {
+  margin-top: 10px;
+}
+
+.brand {
+  position: relative;
+  width: 113px;
+  height: 58px;
+  //background: url('/img/roa-logo.png');
+}
+
+.footer-links {
+  list-style-type: none;
+}
+.footer-links li {
+  float: left;
+  margin-right: 15px;
+}
